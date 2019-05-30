@@ -1,0 +1,14 @@
+.button {
+    display: inline-block;
+    border-radius: 26px;
+    border: 1px solid #FFFFFF;
+    text-transform: uppercase;
+    padding: 1rem 6rem;
+    font-size: $medium;
+    font-weight: 500; 
+    color: $granite-gray;
+    
+}
+.button--button_positive {
+    background-image: $white;
+}

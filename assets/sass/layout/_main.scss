@@ -1,0 +1,21 @@
+.main {
+    background-color: $jelly-bean;
+    height: 430px;
+}
+
+.main__container {
+    padding-top: 100px
+}
+
+.main__title {
+    text-align: center;
+    color: $primary-color;
+    font-size: $large;
+    font-weight: 200;
+}
+
+.main__title-emphasis {
+    text-transform: uppercase;
+    font-size: $large;
+    font-weight: 700;
+}
